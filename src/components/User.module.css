@@ -1,4 +1,7 @@
 .user {
   margin: 1rem 0;
   font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
